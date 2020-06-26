@@ -6,7 +6,7 @@ EZPlot is a simple tool for quickly plotting data with customizable formatting. 
 - Numpy
 - ConfigParser
 
-## Future Imrovements
+## Future Improvements
 - More robust error handling
 - Subplot compatibility
 - Handle error bars with multi-plotting
