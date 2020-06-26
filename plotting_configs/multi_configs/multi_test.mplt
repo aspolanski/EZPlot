@@ -1,0 +1,5 @@
+#test config for multi-plotting
+# PLOT TYPE, LINEWIDTH, COLOR, MARK SIZE, MARK TYPE, CAP SIZE, LEGEND LABEL
+cont,2,red,1,o,1,Sine Wave
+cont,3,blue,1,o,1,Cosine Wave
+scatter,1,black,3,o,1,Scatter
