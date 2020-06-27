@@ -9,5 +9,6 @@ EZPlot is a simple tool for quickly plotting data with customizable formatting. 
 ## Future Improvements
 - More robust error handling
 - Subplot compatibility
-- Handle error bars with multi-plotting
+- ~~Handle error bars with multi-plotting
+- ~~Option to omit data set in final plot
 - Many more good things
